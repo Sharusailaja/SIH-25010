@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29/09/2025
+## Register Number:25016023
+## Name:Sharusri S
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,55 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
-
+The solution is a Smart Crop Advisory Platform accessible via mobile app, chatbot, and voice support. It integrates soil data, weather forecasts, market trends, and pest detection models to provide personalized recommendations. The app will be multilingual and user-friendly, ensuring accessibility even for digitally less-experienced farmers.
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+Technologies:
 
+Programming Languages: Python, JavaScript
+
+Frameworks: Django/Flask for backend, React Native/Flutter for mobile app
+
+AI/ML: TensorFlow/PyTorch for pest detection and predictive models
+
+Cloud: AWS/Azure/Google Cloud for scalability
+
+Databases: PostgreSQL/MongoDB for structured and unstructured data
+
+APIs: Weather, soil health databases, market price feeds
+
+Methodology / Implementation:
+
+Data collection (soil health, weather APIs, crop history).
+
+AI models for pest detection and yield prediction.
+
+Mobile app/chatbot development with multilingual and voice support.
+
+Integration of market price tracking modules.
+
+Pilot testing with farmers and iterative improvement
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+Feasibility: Mobile penetration in rural India is high; AI and cloud tools are mature enough to support real-time advisory.
 
+Challenges: Internet connectivity gaps, digital literacy, and trust-building with farmers.
+
+Mitigation Strategies:
+
+Offline-first app design with SMS/IVR backup.
+
+Voice assistance in native languages.
+
+Partnerships with local NGOs and government for farmer training.
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+Social: Improves farmer confidence, reduces reliance on middlemen.
 
+Economic: Higher crop yields, reduced input costs, better market prices.
+
+Environmental: Sustainable farming through reduced chemical use and improved soil health.
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+NABARD Report (2022): 86% of Indian farmers are small/marginal.
+
+FAO Studies: ICT advisories can increase yields by 20–30%.
+<img width="1536" height="1024" alt="SIH" src="https://github.com/user-attachments/assets/fbe421ca-e62b-41b9-a732-e08bd91a4218" />
+
+ICAR Research Papers on soil health management and crop advisory systems.
